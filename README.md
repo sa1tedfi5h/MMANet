@@ -14,4 +14,4 @@ download link:https://www.bbci.de/competition/iii/
 The organization of the file:*'BCI Competition III-IIIa/data_IIIa_subj01.mat'*  
 
  MMANet Structure:  
- ![image]()
+ ![image](https://github.com/sa1tedfi5h/MMANet/blob/master/my_network.png)

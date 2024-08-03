@@ -1,0 +1,57 @@
+
+Subject: 1   best_run: 10  acc: 0.8785   kappa: 0.8380   AUC:0.9735   F1-score:0.8781 avg_acc: 0.8583 +- 0.0107   avg_kappa: 0.8111 +- 0.0143  avg_AUC:0.9684 +- 0.0053  avg_F1-score:0.8625 +- 0.0132
+Subject: 2   best_run: 1   acc: 0.6875   kappa: 0.5833   AUC:0.8765   F1-score:0.6856 avg_acc: 0.6722 +- 0.0245   avg_kappa: 0.5630 +- 0.0327  avg_AUC:0.8699 +- 0.0172  avg_F1-score:0.6763 +- 0.0199
+Subject: 3   best_run: 9   acc: 0.9549   kappa: 0.9398   AUC:0.9895   F1-score:0.9549 avg_acc: 0.9392 +- 0.0076   avg_kappa: 0.9190 +- 0.0102  avg_AUC:0.9876 +- 0.0032  avg_F1-score:0.9343 +- 0.0096
+Subject: 4   best_run: 8   acc: 0.8403   kappa: 0.7870   AUC:0.9507   F1-score:0.8398 avg_acc: 0.7924 +- 0.0217   avg_kappa: 0.7231 +- 0.0289  avg_AUC:0.9298 +- 0.0136  avg_F1-score:0.7854 +- 0.0291
+Subject: 5   best_run: 1   acc: 0.8160   kappa: 0.7546   AUC:0.9420   F1-score:0.8170 avg_acc: 0.7941 +- 0.0148   avg_kappa: 0.7255 +- 0.0198  avg_AUC:0.9447 +- 0.0098  avg_F1-score:0.7995 +- 0.0220
+Subject: 6   best_run: 3   acc: 0.7604   kappa: 0.6806   AUC:0.9034   F1-score:0.7608 avg_acc: 0.7431 +- 0.0151   avg_kappa: 0.6574 +- 0.0201  avg_AUC:0.8986 +- 0.0026  avg_F1-score:0.7336 +- 0.0080
+Subject: 7   best_run: 4   acc: 0.9583   kappa: 0.9444   AUC:0.9924   F1-score:0.9581 avg_acc: 0.9437 +- 0.0105   avg_kappa: 0.9250 +- 0.0140  avg_AUC:0.9898 +- 0.0024  avg_F1-score:0.9324 +- 0.0171
+Subject: 8   best_run: 1   acc: 0.8889   kappa: 0.8519   AUC:0.9725   F1-score:0.8894 avg_acc: 0.8792 +- 0.0062   avg_kappa: 0.8389 +- 0.0082  avg_AUC:0.9699 +- 0.0041  avg_F1-score:0.8799 +- 0.0092
+Subject: 9   best_run: 8   acc: 0.9097   kappa: 0.8796   AUC:0.9830   F1-score:0.9085 avg_acc: 0.8826 +- 0.0137   avg_kappa: 0.8435 +- 0.0183  avg_AUC:0.9713 +- 0.0039  avg_F1-score:0.8754 +- 0.0063
+Average of 9 subjects - best runs:
+Accuracy = 0.8549   Kappa = 0.8066   AUC = 0.9537  F1-score = 0.8547
+
+Average of 9 subjects x 10 runs (average of 90 experiments):
+Accuracy = 0.8339   Kappa = 0.7785   AUC = 0.9478  F1-score = 0.8310
+Subject: 1   best_run: 10  acc: 0.8785   kappa: 0.8380   AUC:0.9735   F1-score:0.8781 avg_acc: 0.8583 +- 0.0107   avg_kappa: 0.8111 +- 0.0143  avg_AUC:0.9684 +- 0.0053  avg_F1-score:0.8625 +- 0.0132
+Subject: 2   best_run: 1   acc: 0.6875   kappa: 0.5833   AUC:0.8765   F1-score:0.6856 avg_acc: 0.6722 +- 0.0245   avg_kappa: 0.5630 +- 0.0327  avg_AUC:0.8699 +- 0.0172  avg_F1-score:0.6763 +- 0.0199
+Subject: 3   best_run: 9   acc: 0.9549   kappa: 0.9398   AUC:0.9895   F1-score:0.9549 avg_acc: 0.9392 +- 0.0076   avg_kappa: 0.9190 +- 0.0102  avg_AUC:0.9876 +- 0.0032  avg_F1-score:0.9343 +- 0.0096
+Subject: 4   best_run: 8   acc: 0.8403   kappa: 0.7870   AUC:0.9507   F1-score:0.8398 avg_acc: 0.7924 +- 0.0217   avg_kappa: 0.7231 +- 0.0289  avg_AUC:0.9298 +- 0.0136  avg_F1-score:0.7854 +- 0.0291
+Subject: 5   best_run: 1   acc: 0.8160   kappa: 0.7546   AUC:0.9420   F1-score:0.8170 avg_acc: 0.7941 +- 0.0148   avg_kappa: 0.7255 +- 0.0198  avg_AUC:0.9447 +- 0.0098  avg_F1-score:0.7995 +- 0.0220
+Subject: 6   best_run: 3   acc: 0.7604   kappa: 0.6806   AUC:0.9034   F1-score:0.7608 avg_acc: 0.7431 +- 0.0151   avg_kappa: 0.6574 +- 0.0201  avg_AUC:0.8986 +- 0.0026  avg_F1-score:0.7336 +- 0.0080
+Subject: 7   best_run: 4   acc: 0.9583   kappa: 0.9444   AUC:0.9924   F1-score:0.9581 avg_acc: 0.9437 +- 0.0105   avg_kappa: 0.9250 +- 0.0140  avg_AUC:0.9898 +- 0.0024  avg_F1-score:0.9324 +- 0.0171
+Subject: 8   best_run: 1   acc: 0.8889   kappa: 0.8519   AUC:0.9725   F1-score:0.8894 avg_acc: 0.8792 +- 0.0062   avg_kappa: 0.8389 +- 0.0082  avg_AUC:0.9699 +- 0.0041  avg_F1-score:0.8799 +- 0.0092
+Subject: 9   best_run: 8   acc: 0.9097   kappa: 0.8796   AUC:0.9830   F1-score:0.9085 avg_acc: 0.8826 +- 0.0137   avg_kappa: 0.8435 +- 0.0183  avg_AUC:0.9713 +- 0.0039  avg_F1-score:0.8754 +- 0.0063
+Average of 9 subjects - best runs:
+Accuracy = 0.8549   Kappa = 0.8066   AUC = 0.9537  F1-score = 0.8547
+
+Average of 9 subjects x 10 runs (average of 90 experiments):
+Accuracy = 0.8339   Kappa = 0.7785   AUC = 0.9478  F1-score = 0.8310
+Subject: 1   best_run: 10  acc: 0.8785   kappa: 0.8380   AUC:0.9735   F1-score:0.8781 avg_acc: 0.8583 +- 0.0107   avg_kappa: 0.8111 +- 0.0143  avg_AUC:0.9684 +- 0.0053  avg_F1-score:0.8625 +- 0.0132
+Subject: 2   best_run: 1   acc: 0.6875   kappa: 0.5833   AUC:0.8765   F1-score:0.6856 avg_acc: 0.6722 +- 0.0245   avg_kappa: 0.5630 +- 0.0327  avg_AUC:0.8699 +- 0.0172  avg_F1-score:0.6763 +- 0.0199
+Subject: 3   best_run: 9   acc: 0.9549   kappa: 0.9398   AUC:0.9895   F1-score:0.9549 avg_acc: 0.9392 +- 0.0076   avg_kappa: 0.9190 +- 0.0102  avg_AUC:0.9876 +- 0.0032  avg_F1-score:0.9343 +- 0.0096
+Subject: 4   best_run: 8   acc: 0.8403   kappa: 0.7870   AUC:0.9507   F1-score:0.8398 avg_acc: 0.7924 +- 0.0217   avg_kappa: 0.7231 +- 0.0289  avg_AUC:0.9298 +- 0.0136  avg_F1-score:0.7854 +- 0.0291
+Subject: 5   best_run: 1   acc: 0.8160   kappa: 0.7546   AUC:0.9420   F1-score:0.8170 avg_acc: 0.7941 +- 0.0148   avg_kappa: 0.7255 +- 0.0198  avg_AUC:0.9447 +- 0.0098  avg_F1-score:0.7995 +- 0.0220
+Subject: 6   best_run: 3   acc: 0.7604   kappa: 0.6806   AUC:0.9034   F1-score:0.7608 avg_acc: 0.7431 +- 0.0151   avg_kappa: 0.6574 +- 0.0201  avg_AUC:0.8986 +- 0.0026  avg_F1-score:0.7336 +- 0.0080
+Subject: 7   best_run: 4   acc: 0.9583   kappa: 0.9444   AUC:0.9924   F1-score:0.9581 avg_acc: 0.9437 +- 0.0105   avg_kappa: 0.9250 +- 0.0140  avg_AUC:0.9898 +- 0.0024  avg_F1-score:0.9324 +- 0.0171
+Subject: 8   best_run: 1   acc: 0.8889   kappa: 0.8519   AUC:0.9725   F1-score:0.8894 avg_acc: 0.8792 +- 0.0062   avg_kappa: 0.8389 +- 0.0082  avg_AUC:0.9699 +- 0.0041  avg_F1-score:0.8799 +- 0.0092
+Subject: 9   best_run: 8   acc: 0.9097   kappa: 0.8796   AUC:0.9830   F1-score:0.9085 avg_acc: 0.8826 +- 0.0137   avg_kappa: 0.8435 +- 0.0183  avg_AUC:0.9713 +- 0.0039  avg_F1-score:0.8754 +- 0.0063
+Average of 9 subjects - best runs:
+Accuracy = 0.8549   Kappa = 0.8066   AUC = 0.9537  F1-score = 0.8547
+
+Average of 9 subjects x 10 runs (average of 90 experiments):
+Accuracy = 0.8339   Kappa = 0.7785   AUC = 0.9478  F1-score = 0.8310
+Subject: 1   best_run: 10  acc: 0.8785   kappa: 0.8380   AUC:0.9735   F1-score:0.8781 avg_acc: 0.8583 +- 0.0107   avg_kappa: 0.8111 +- 0.0143  avg_AUC:0.9684 +- 0.0053  avg_F1-score:0.8625 +- 0.0132
+Subject: 2   best_run: 1   acc: 0.6875   kappa: 0.5833   AUC:0.8765   F1-score:0.6856 avg_acc: 0.6722 +- 0.0245   avg_kappa: 0.5630 +- 0.0327  avg_AUC:0.8699 +- 0.0172  avg_F1-score:0.6763 +- 0.0199
+Subject: 3   best_run: 9   acc: 0.9549   kappa: 0.9398   AUC:0.9895   F1-score:0.9549 avg_acc: 0.9392 +- 0.0076   avg_kappa: 0.9190 +- 0.0102  avg_AUC:0.9876 +- 0.0032  avg_F1-score:0.9343 +- 0.0096
+Subject: 4   best_run: 8   acc: 0.8403   kappa: 0.7870   AUC:0.9507   F1-score:0.8398 avg_acc: 0.7924 +- 0.0217   avg_kappa: 0.7231 +- 0.0289  avg_AUC:0.9298 +- 0.0136  avg_F1-score:0.7854 +- 0.0291
+Subject: 5   best_run: 1   acc: 0.8160   kappa: 0.7546   AUC:0.9420   F1-score:0.8170 avg_acc: 0.7941 +- 0.0148   avg_kappa: 0.7255 +- 0.0198  avg_AUC:0.9447 +- 0.0098  avg_F1-score:0.7995 +- 0.0220
+Subject: 6   best_run: 3   acc: 0.7604   kappa: 0.6806   AUC:0.9034   F1-score:0.7608 avg_acc: 0.7431 +- 0.0151   avg_kappa: 0.6574 +- 0.0201  avg_AUC:0.8986 +- 0.0026  avg_F1-score:0.7336 +- 0.0080
+Subject: 7   best_run: 4   acc: 0.9583   kappa: 0.9444   AUC:0.9924   F1-score:0.9581 avg_acc: 0.9437 +- 0.0105   avg_kappa: 0.9250 +- 0.0140  avg_AUC:0.9898 +- 0.0024  avg_F1-score:0.9324 +- 0.0171
+Subject: 8   best_run: 1   acc: 0.8889   kappa: 0.8519   AUC:0.9725   F1-score:0.8894 avg_acc: 0.8792 +- 0.0062   avg_kappa: 0.8389 +- 0.0082  avg_AUC:0.9699 +- 0.0041  avg_F1-score:0.8799 +- 0.0092
+Subject: 9   best_run: 8   acc: 0.9097   kappa: 0.8796   AUC:0.9830   F1-score:0.9085 avg_acc: 0.8826 +- 0.0137   avg_kappa: 0.8435 +- 0.0183  avg_AUC:0.9713 +- 0.0039  avg_F1-score:0.8754 +- 0.0063
+Average of 9 subjects - best runs:
+Accuracy = 0.8549   Kappa = 0.8066   AUC = 0.9537  F1-score = 0.8547
+
+Average of 9 subjects x 10 runs (average of 90 experiments):
+Accuracy = 0.8339   Kappa = 0.7785   AUC = 0.9478  F1-score = 0.8310

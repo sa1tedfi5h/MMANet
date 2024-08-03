@@ -1,0 +1,9 @@
+
+Subject: 1   best_run: 2   acc: 0.9167   kappa: 0.8889   AUC:0.9785   F1-score:0.9165 avg_acc: 0.8933 +- 0.0155   avg_kappa: 0.8578 +- 0.0206  avg_AUC:0.9723 +- 0.0066  avg_F1-score:0.8929 +- 0.0156
+Subject: 2   best_run: 4   acc: 0.7667   kappa: 0.6889   AUC:0.8934   F1-score:0.7684 avg_acc: 0.7200 +- 0.0323   avg_kappa: 0.6267 +- 0.0431  avg_AUC:0.8782 +- 0.0167  avg_F1-score:0.7188 +- 0.0349
+Subject: 3   best_run: 6   acc: 0.7750   kappa: 0.7000   AUC:0.9230   F1-score:0.7708 avg_acc: 0.7150 +- 0.0333   avg_kappa: 0.6200 +- 0.0444  avg_AUC:0.8956 +- 0.0211  avg_F1-score:0.7096 +- 0.0345
+Average of 3 subjects - best runs:
+Accuracy = 0.8194   Kappa = 0.7593   AUC = 0.9316  F1-score = 0.8185
+
+Average of 3 subjects x 10 runs (average of 30 experiments):
+Accuracy = 0.7761   Kappa = 0.7015   AUC = 0.9154  F1-score = 0.7738

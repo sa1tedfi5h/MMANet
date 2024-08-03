@@ -1,0 +1,15 @@
+
+Subject: 1   best_run: 8   acc: 0.8031   kappa: 0.6062   AUC:0.8031   F1-score:0.8013 avg_acc: 0.7925 +- 0.0096   avg_kappa: 0.5850 +- 0.0192  avg_AUC:0.7906 +- 0.0126  avg_F1-score:0.7872 +- 0.0121
+Subject: 2   best_run: 7   acc: 0.7464   kappa: 0.4929   AUC:0.7464   F1-score:0.7447 avg_acc: 0.7318 +- 0.0091   avg_kappa: 0.4636 +- 0.0182  avg_AUC:0.7307 +- 0.0101  avg_F1-score:0.7295 +- 0.0101
+Subject: 3   best_run: 8   acc: 0.9031   kappa: 0.8063   AUC:0.9031   F1-score:0.9031 avg_acc: 0.8825 +- 0.0047   avg_kappa: 0.7650 +- 0.0094  avg_AUC:0.8869 +- 0.0101  avg_F1-score:0.8868 +- 0.0101
+Subject: 4   best_run: 2   acc: 0.9875   kappa: 0.9750   AUC:0.9875   F1-score:0.9875 avg_acc: 0.9847 +- 0.0033   avg_kappa: 0.9694 +- 0.0065  avg_AUC:0.9844 +- 0.0028  avg_F1-score:0.9844 +- 0.0028
+Subject: 5   best_run: 7   acc: 0.9938   kappa: 0.9875   AUC:0.9937   F1-score:0.9938 avg_acc: 0.9862 +- 0.0066   avg_kappa: 0.9725 +- 0.0132  avg_AUC:0.9847 +- 0.0063  avg_F1-score:0.9847 +- 0.0063
+Subject: 6   best_run: 4   acc: 0.9094   kappa: 0.8187   AUC:0.9094   F1-score:0.9093 avg_acc: 0.9062 +- 0.0119   avg_kappa: 0.8125 +- 0.0239  avg_AUC:0.8819 +- 0.0208  avg_F1-score:0.8817 +- 0.0208
+Subject: 7   best_run: 3   acc: 0.9344   kappa: 0.8688   AUC:0.9344   F1-score:0.9344 avg_acc: 0.9313 +- 0.0037   avg_kappa: 0.8625 +- 0.0074  avg_AUC:0.9284 +- 0.0075  avg_F1-score:0.9284 +- 0.0075
+Subject: 8   best_run: 2   acc: 0.9406   kappa: 0.8812   AUC:0.9406   F1-score:0.9406 avg_acc: 0.9391 +- 0.0055   avg_kappa: 0.8781 +- 0.0109  avg_AUC:0.9338 +- 0.0027  avg_F1-score:0.9337 +- 0.0027
+Subject: 9   best_run: 8   acc: 0.9000   kappa: 0.8000   AUC:0.9000   F1-score:0.8999 avg_acc: 0.8981 +- 0.0109   avg_kappa: 0.7963 +- 0.0219  avg_AUC:0.8850 +- 0.0106  avg_F1-score:0.8849 +- 0.0106
+Average of 9 subjects - best runs:
+Accuracy = 0.9020   Kappa = 0.8041   AUC = 0.9020  F1-score = 0.9016
+
+Average of 9 subjects x 10 runs (average of 90 experiments):
+Accuracy = 0.8947   Kappa = 0.7894   AUC = 0.8896  F1-score = 0.8890
